@@ -1,0 +1,12 @@
+{
+  "name": "fortnite-og-fan-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive fan-made browser prototype for deployment on Render",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,1 @@
+window.OG_PLATFORM={detect(){return /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)?"mobile":"pc"},label(value){return value==="mobile"?"Handy / Tablet":"PC"}};

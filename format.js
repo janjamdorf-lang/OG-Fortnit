@@ -1,0 +1,1 @@
+window.OG_FORMAT={number(n){return new Intl.NumberFormat("de-DE").format(n)},safeText(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}};
